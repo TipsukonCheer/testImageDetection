@@ -1,0 +1,15 @@
+{
+  "name": "testimagedetection",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "TipsukonCheer <tipsukon.cheer@mail.kmutt.ac.th>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": "",
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.0.0",
+    "node": "^15.8.0"
+  }
+}
